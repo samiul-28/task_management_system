@@ -1,0 +1,18 @@
+current directory: /home/samiul/code/task_management_system/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+/home/samiul/.asdf/installs/ruby/3.3.6/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/samiul/code/task_management_system/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241118-20303-3sl6ia sitelibdir\=./.gem.20241118-20303-3sl6ia clean
+
+current directory: /home/samiul/code/task_management_system/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241118-20303-3sl6ia sitelibdir\=./.gem.20241118-20303-3sl6ia
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/samiul/code/task_management_system/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241118-20303-3sl6ia sitelibdir\=./.gem.20241118-20303-3sl6ia install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20241118-20303-3sl6ia/skiptrace/internal
+
+current directory: /home/samiul/code/task_management_system/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241118-20303-3sl6ia sitelibdir\=./.gem.20241118-20303-3sl6ia clean
